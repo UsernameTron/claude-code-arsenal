@@ -1,0 +1,49 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "everything-claude-code",
+  "description": "Battle-tested Claude Code configurations agents, skills, hooks, rules, and legacy command shims evolved over 10+ months of intensive daily use",
+  "owner": {
+    "name": "UsernameTron",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Battle-tested Claude Code configurations "
+  },
+  "plugins": [
+    {
+      "name": "everything-claude-code",
+      "source": "./",
+      "description": "The most comprehensive Claude Code plugin — 36 agents, 142 skills, 68 legacy command shims, and production-ready hooks for TDD, security scanning, code review, and continuous learning",
+      "version": "1.9.0",
+      "author": {
+        "name": "UsernameTron",
+        "email": ""
+      },
+      "homepage": "https://github.com/UsernameTron/everything-claude-code",
+      "repository": "https://github.com/UsernameTron/everything-claude-code",
+      "license": "MIT",
+      "keywords": [
+        "agents",
+        "skills",
+        "hooks",
+        "commands",
+        "tdd",
+        "code-review",
+        "security",
+        "best-practices"
+      ],
+      "category": "workflow",
+      "tags": [
+        "agents",
+        "skills",
+        "hooks",
+        "commands",
+        "tdd",
+        "code-review",
+        "security",
+        "best-practices"
+      ],
+      "strict": false
+    }
+  ]
+}
