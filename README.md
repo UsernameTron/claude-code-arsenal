@@ -22,10 +22,6 @@
 
 <div align="center">
 
-**Language / 语言 / 語言 / Dil**
-
-[**English**](README.md) | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md)
- | [Türkçe](docs/tr/README.md)
 
 </div>
 
@@ -121,7 +117,7 @@ This repo is the raw code only. The guides explain everything.
 
 ### v1.4.1 — Bug Fix (Feb 2026)
 
-- **Fixed instinct import content loss** — `parse_instinct_file()` was silently dropping all content after frontmatter (Action, Evidence, Examples sections) during `/instinct-import`. ([#148](https://github.com/UsernameTron/everything-claude-code/issues/148), [#161](https://github.com/UsernameTron/everything-claude-code/pull/161))
+- **Fixed instinct import content loss** — `parse_instinct_file()` was silently dropping all content after frontmatter (Action, Evidence, Examples sections) during `/instinct-import`. 
 
 ### v1.4.0 — Multi-Language Rules, Installation Wizard & PM2 (Feb 2026)
 
@@ -145,7 +141,6 @@ This repo is the raw code only. The guides explain everything.
 - **Session management** — `/sessions` command for session history
 - **Continuous learning v2** — Instinct-based learning with confidence scoring, import/export, evolution
 
-See the full changelog in [Releases](https://github.com/UsernameTron/everything-claude-code/releases).
 
 ---
 
@@ -1360,9 +1355,6 @@ This project is free and open source. Sponsors help keep it maintained and growi
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=UsernameTron/everything-claude-code&type=Date)](https://star-history.com/#UsernameTron/everything-claude-code&Date)
 
 ---
 
