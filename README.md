@@ -30,36 +30,7 @@ Not just configs. A complete system: skills, instincts, memory optimization, con
 
 Works across **Claude Code**, **Codex**, **Cowork**, and other AI agent harnesses.
 
----
 
-## The Guides
-
-This repo is the raw code only. The guides explain everything.
-
-<table>
-<tr>
-<td width="33%">
-<a href="/status/2012378465664745795">
-<img src="./assets/images/guides/shorthand-guide.png" alt="The Shorthand Guide to Everything Claude Code" />
-</a>
-</td>
-<td width="33%">
-<a href="/status/2014040193557471352">
-<img src="./assets/images/guides/longform-guide.png" alt="The Longform Guide to Everything Claude Code" />
-</a>
-</td>
-<td width="33%">
-<a href="/status/2033263813387223421">
-<img src="./assets/images/security/security-guide-header.png" alt="The Shorthand Guide to Everything Agentic Security" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Shorthand Guide</b><br/>Setup, foundations, philosophy. <b>Read this first.</b></td>
-<td align="center"><b>Longform Guide</b><br/>Token optimization, memory persistence, evals, parallelization.</td>
-<td align="center"><b>Security Guide</b><br/>Attack vectors, sandboxing, sanitization, CVEs, AgentShield.</td>
-</tr>
-</table>
 
 | Topic | What You'll Learn |
 |-------|-------------------|
